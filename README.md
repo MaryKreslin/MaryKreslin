@@ -6,6 +6,15 @@
 
 👩🏽‍🤝‍🧑🏿Хочу работать в дружном коллективе
 
+## Мои контакты
+
+maria.kreslin@gmail.com
+
+kreslin.maria@yandex.ru
+
+https://t.me/MaryKreslin
+
+
 ## Мой стек:
 
 ![file_type_vscode_icon_130084](https://user-images.githubusercontent.com/112550019/221167777-ade760a9-0601-44aa-a3b2-e9c99bb9744d.png)
